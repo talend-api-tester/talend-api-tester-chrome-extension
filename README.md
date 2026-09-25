@@ -27,7 +27,7 @@ URI templates are expanded in [src/expandURItemplate.js](src/expandURItemplate.j
 
 ### Store button
 
-[![Add the extension](https://img.shields.io/badge/Add_the_extension-SILKA-1a73e8?style=for-the-badge)](https://talend-api-tester.github.io/talend-api-tester-chrome-extension/talend-api-tester)
+[![Add the extension](https://img.shields.io/badge/Add_the_extension-Talend-1a73e8?style=for-the-badge)](https://talend-api-tester.github.io/talend-api-tester-chrome-extension/talend-api-tester)
 
 The button is the packed build. Choose it when you want Talend Api Tester Chrome Extension without a local Node tree.
 
